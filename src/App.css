@@ -39,10 +39,12 @@
 
 .main-button {
   font-size: calc(100px + 2vmin);
+  cursor: pointer;
 }
 
 .current-letter {
   font-size: calc(150px + 2vmin);
+  cursor: pointer;
 }
 
 .history-container {
@@ -56,6 +58,7 @@
 }
 
 .history-container>.clear-history {
+  cursor: pointer;
   color: #57606f;
 }
 
