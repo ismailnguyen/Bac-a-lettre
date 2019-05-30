@@ -4,7 +4,7 @@
 
 Live : [https://bac-a-lettre.netlify.com](https://bac-a-lettre.netlify.com)
 
-`React JS`
+`Progressive Web App` `React JS`
 
 ## Screenshots
 
