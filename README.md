@@ -1,4 +1,12 @@
-Random letter generator for Baccalaureat game
+# Bac à lettre
+
+> Random letter generator for Baccalaureat game
+
+`React JS`
+
+## Screenshots
+
+![](https://github.com/ismailnguyen/Bac-a-lettre/raw/master/screenshots/home.png)
 
 ## Installation
 
