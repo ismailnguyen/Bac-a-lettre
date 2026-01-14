@@ -12,6 +12,12 @@ Live : [https://bac-a-lettre.netlify.com](https://bac-a-lettre.netlify.com)
 
 ## Installation
 
+**Required:** Node.js >= 22 — we recommend using `nvm` (e.g. `nvm install 22 && nvm use 22`).
+
+**Notes:**
+- Scripts already set a legacy OpenSSL provider to work with recent Node versions (see `package.json` scripts). If you prefer not to, you can remove `NODE_OPTIONS=--openssl-legacy-provider` but you may need to upgrade `react-scripts` and build tooling.
+- To keep browserslist data up to date, run `npx browserslist@latest --update-db`.
+
 In the project directory, you can run:
 
 ### `yarn start`
